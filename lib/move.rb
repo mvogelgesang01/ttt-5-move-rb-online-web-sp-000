@@ -15,8 +15,7 @@ index.to_i-1
 end
 
 def move(move)
+  update_array_at_with(array, index, value)
+    array[index] = value
 end
 
-def update_array_at_with(array, index, value)
-  array[index] = value
-end
