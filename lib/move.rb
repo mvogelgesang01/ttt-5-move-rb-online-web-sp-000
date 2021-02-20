@@ -15,3 +15,4 @@ index.to_i-1
 end
 
 def move(move)
+end
