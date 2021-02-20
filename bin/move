@@ -8,3 +8,4 @@ puts "Welcome to Tic Tac Toe!"
 puts "Turn 1: Where would you like to go 0-8?"
 position = gets.strip
 move(board,input_to_index(position))
+display_board(board)
