@@ -10,3 +10,4 @@ end
 #board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 #position = gets.strip
+def #input_to_index
